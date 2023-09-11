@@ -1,0 +1,75 @@
+.details {
+  padding: 30px;
+}
+
+.detHeader {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 2em 1em;
+
+  /* background-image: url('../../../public/coins.jpg'); */
+}
+
+.details h1 {
+  color: white;
+  font-size: 2rem;
+}
+
+.detnav {
+  width: 100%;
+  margin: 0;
+  height: 50px;
+  background-color: #eb4b89;
+  display: flex;
+  align-items: center;
+}
+
+.back {
+  justify-content: left;
+  padding: 10px;
+  font-size: x-large;
+}
+
+.financial {
+  display: flex;
+  justify-content: flex-start;
+  background-color: #eb4b89;
+}
+
+.detdesc {
+  padding: 5px;
+  font-size: 20px;
+  color: white;
+}
+
+.infobar {
+  text-align: left;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 0.5rem;
+  height: 10vh;
+  border-radius: 1rem;
+}
+
+.infobar span {
+  line-height: 40px;
+}
+
+.infobar:nth-child(even) {
+  background-color: #eb4b89;
+}
+
+.infoname {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  color: seashell;
+}
+
+.infonumeric {
+  font-weight: bolder;
+  font-size: 20px;
+  color: seashell;
+}
