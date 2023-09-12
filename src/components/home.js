@@ -40,7 +40,7 @@ const Home = () => {
                                     {BsArrowRightCircle > 0
                                       ? <BsArrowRightCircle className="arrow" /> : <BsArrowRightCircle className="arrow" />}
                                   </span>
-                                  <h3 className="campany">{stock.companyName}</h3>
+                                  <h3 className="company-name">{stock.companyName}</h3>
                                   <span className="price">
                                     Price: $
                                     {stock.price}
