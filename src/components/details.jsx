@@ -11,7 +11,7 @@ const Detail = () => {
 
   return (
 
-    <div>
+    <div className="flex">
       <nav className="detnav">
         <NavLink to="/" className="back"><AiOutlineArrowLeft style={{ color: 'seashell' }} /></NavLink>
       </nav>

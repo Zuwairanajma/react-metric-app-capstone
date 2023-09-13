@@ -10,13 +10,13 @@ body {
   align-items: center;
   padding: 2em 1em;
   background-image: url('../../Assets/coinmarketcap.png');
-  display: flex;
-  justify-content: flex-end;
 }
 
 .details h1 {
   color: white;
   font-size: 2rem;
+  justify-content: flex-end;
+  display: flex;
 }
 
 .detnav {
@@ -32,12 +32,6 @@ body {
   justify-content: left;
   padding: 10px;
   font-size: x-large;
-}
-
-.financial {
-  display: flex;
-  justify-content: flex-start;
-  background-color: #4369b2;
 }
 
 .detdesc {
@@ -81,12 +75,4 @@ body {
 
 .infobar:nth-child(odd) {
   background-color: #3e5175;
-}
-
-.infobar1 {
-  color: seashell;
-}
-
-.infonumeric1 {
-  color: seashell;
 }

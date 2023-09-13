@@ -41,7 +41,7 @@ const Home = () => {
         {
           stocks.map((stock) => (
             stock.companyName.toLowerCase().includes(searchTerm.toLowerCase()) ? (
-              <NavLink to="/details" onClick={() => dispatch(select(stock.id))} key={stock.id} className="companyListItem">
+              <NavLink to={`/details/${stock.id}`} onClick={() => dispatch(select(stock.id))} key={stock.id} className="companyListItem">
                 <div className="namePrice">
                   <div className="bottom">
                     <span className="arrow">
