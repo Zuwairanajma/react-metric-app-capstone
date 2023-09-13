@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.6fb822b8.css",
+    "main.js": "/react-gh-pages/static/js/main.ad4ec274.js",
+    "static/js/787.0dbd06a2.chunk.js": "/react-gh-pages/static/js/787.0dbd06a2.chunk.js",
+    "static/media/coinmarketcap.png": "/react-gh-pages/static/media/coinmarketcap.ba88031f805286a3d4c8.png",
+    "static/media/coins.jpg": "/react-gh-pages/static/media/coins.0d1bd47f18107f99e216.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.6fb822b8.css.map": "/react-gh-pages/static/css/main.6fb822b8.css.map",
+    "main.ad4ec274.js.map": "/react-gh-pages/static/js/main.ad4ec274.js.map",
+    "787.0dbd06a2.chunk.js.map": "/react-gh-pages/static/js/787.0dbd06a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fb822b8.css",
+    "static/js/main.ad4ec274.js"
+  ]
+}
