@@ -48,7 +48,7 @@
 - [video link](https://www.loom.com/share/Zuwaira-Sadiq-or-Loom-13-September-2023-9e51f50a5f6241d38641a9076d8eb0de?sid=ef1e4fa5-0db4-4446-a83d-fbae5a99527e)
 
 
-- [Live Demo Link]()
+- [Live Demo Link](https://zuwairanajma.github.io/react-metric-app-capstone)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -88,9 +88,10 @@ Install this project using the cloned repo or download and use the files to your
 - commands to run:   npm run test 
 
 ### Deployment
-
+```
 You can deploy this project through Github Pages
 
+```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
