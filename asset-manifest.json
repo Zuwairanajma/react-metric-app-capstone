@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.6fb822b8.css",
-    "main.js": "/react-gh-pages/static/js/main.ad4ec274.js",
-    "static/js/787.0dbd06a2.chunk.js": "/react-gh-pages/static/js/787.0dbd06a2.chunk.js",
-    "static/media/coinmarketcap.png": "/react-gh-pages/static/media/coinmarketcap.ba88031f805286a3d4c8.png",
-    "static/media/coins.jpg": "/react-gh-pages/static/media/coins.0d1bd47f18107f99e216.jpg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.6fb822b8.css.map": "/react-gh-pages/static/css/main.6fb822b8.css.map",
-    "main.ad4ec274.js.map": "/react-gh-pages/static/js/main.ad4ec274.js.map",
-    "787.0dbd06a2.chunk.js.map": "/react-gh-pages/static/js/787.0dbd06a2.chunk.js.map"
+    "main.css": "/react-metric-app-capstone/static/css/main.13210807.css",
+    "main.js": "/react-metric-app-capstone/static/js/main.a5359be0.js",
+    "static/js/787.0dbd06a2.chunk.js": "/react-metric-app-capstone/static/js/787.0dbd06a2.chunk.js",
+    "static/media/coinmarketcap.png": "/react-metric-app-capstone/static/media/coinmarketcap.ba88031f805286a3d4c8.png",
+    "static/media/coins.jpg": "/react-metric-app-capstone/static/media/coins.0d1bd47f18107f99e216.jpg",
+    "index.html": "/react-metric-app-capstone/index.html",
+    "main.13210807.css.map": "/react-metric-app-capstone/static/css/main.13210807.css.map",
+    "main.a5359be0.js.map": "/react-metric-app-capstone/static/js/main.a5359be0.js.map",
+    "787.0dbd06a2.chunk.js.map": "/react-metric-app-capstone/static/js/787.0dbd06a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6fb822b8.css",
-    "static/js/main.ad4ec274.js"
+    "static/css/main.13210807.css",
+    "static/js/main.a5359be0.js"
   ]
 }
