@@ -130,7 +130,8 @@ If you like this project give a star to this repositiory.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - I would also like to thank Microverse for the guidance they made all the way up to this point. 
-[Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio) - [Behance Version Template](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs))
+
+- [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio) - [Behance Version Template](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs))
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
