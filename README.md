@@ -48,7 +48,7 @@
 - [video link](https://www.loom.com/share/Zuwaira-Sadiq-or-Loom-13-September-2023-9e51f50a5f6241d38641a9076d8eb0de?sid=ef1e4fa5-0db4-4446-a83d-fbae5a99527e)
 
 
-- [Live Demo Link](https://zuwairanajma.github.io/react-metric-app-capstone)
+- [Live Demo Link](https://enchanting-fairy-a3b864.netlify.app/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
