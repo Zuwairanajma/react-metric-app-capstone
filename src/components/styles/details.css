@@ -1,0 +1,78 @@
+body {
+  background-color: #3e5175;
+}
+
+.details {
+  padding: 30px;
+}
+
+.detHeader {
+  align-items: center;
+  padding: 2em 1em;
+  background-image: url('../../Assets/coinmarketcap.png');
+}
+
+.details h1 {
+  color: white;
+  font-size: 2rem;
+  justify-content: flex-end;
+  display: flex;
+}
+
+.detnav {
+  height: 50px;
+  display: flex;
+  align-items: center;
+  background-color: #4369b2;
+  width: 100%;
+  margin: 0;
+}
+
+.back {
+  justify-content: left;
+  padding: 10px;
+  font-size: x-large;
+}
+
+.detdesc {
+  padding: 5px;
+  font-size: 20px;
+  color: white;
+}
+
+.infobar {
+  align-items: center;
+  padding: 0 0.5rem;
+  height: 10vh;
+  border-radius: 1rem;
+  color: seashell;
+  font-size: 20px;
+  text-align: left;
+  display: flex;
+  justify-content: space-between;
+}
+
+.infobar span {
+  line-height: 40px;
+}
+
+.infobar:nth-child(even) {
+  background-color: #4369b2;
+}
+
+.infoname {
+  font-size: 25px;
+  font-weight: bold;
+  color: seashell;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.infonumeric {
+  font-weight: bolder;
+  font-size: 25px;
+  color: seashell;
+}
+
+.infobar:nth-child(odd) {
+  background-color: #3e5175;
+}
